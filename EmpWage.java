@@ -5,7 +5,7 @@ public class EmpWage {
 		
 		System.out.println("Welcome To Employee Wage Computation");
 		
-		//constants
+		//constants changing to see difference
 		int is_part_time = 1;
 		int is_full_time = 2;
 		int emp_wage_per_hr = 20;
